@@ -6,6 +6,7 @@
 
 function! Pack#Clap#Conf#Run () abort
 
+	" https://github.com/liuchengxu/vim-clap#global-variables
 	let g:clap_layout = { 'relative': 'editor' }
 
 
